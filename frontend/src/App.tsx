@@ -1,4 +1,4 @@
-import Header from "./components/Header/Index"
+import Header from "./components/Header"
 import NotificationButton from "./components/NotificationButton"
 import SalesCard from "./components/SalesCard"
 import './index.css'
